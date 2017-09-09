@@ -1,0 +1,186 @@
+.row-0 {
+  padding: 30px 10px 40px 10px;
+}
+
+u{
+  text-decoration: underline;
+}
+
+img {
+  padding-top: 20px;
+  padding-bottom: 30px;
+}
+
+.body-photo{
+  padding-top: 30px;
+  padding-bottom: 30px;
+  padding-left: 30px;
+}
+
+h2 {
+    text-align: center;
+}
+
+h3{
+	color: #185B6E !important;
+}
+
+h5 {
+    text-align: center;
+    color: #FC00B2 !important;
+}
+
+.container {
+    height: 100%;
+}
+
+.myjumboTron {
+    background-color: #EDB3F8 !important;
+    text-align: center;
+}
+
+p {
+    color: white;
+    text-indent: 15px;
+    font-size: 17px;
+}
+
+body {
+    padding-top: 50px;
+    position: relative;
+    background-color: #2a363B !important;
+    font-family: 'Work Sans', sans-serif;
+    !important;
+};
+
+a {
+    text-align: center !important;
+}
+
+a:link {
+    color: #EDB3F8 !important;
+}
+
+a:visited {
+    color: #EDB3F8 !important;
+}
+
+a:hover {
+    color: #EDB3F8 !important;
+}
+
+span {
+    color: #E2DCDC;
+}
+
+#section1 {
+    padding-top: 20px;
+    padding-bottom: 50px;
+    height: 100%;
+    max-width: 100%;
+    color: #fff;
+    background-color: #4A8C94!important;
+}
+
+#section2 {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    height: 100%;
+    max-width: 100%;
+    color: #fff;
+    background-color: #AF7AFF;
+}
+
+#section3 {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    height: 100%;
+    max-width: 100%;
+    color: #fff;
+    background-color: #C08383;
+}
+
+#section4 {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    height: 100%;
+    max-width: 100%;
+    color: #fff;
+    background-color: #4749A4;
+}
+
+.glyphicon-chevron-right {
+    font-size: 120%;
+}
+
+.glyphicon-chevron-left {
+    font-size: 120%;
+}
+
+.example {
+    float: left;
+}
+
+.sectionText {
+    color: white !important;
+    text-align: center;
+}
+
+.sectionTitle {
+    color: black !important;
+    padding-bottom: 10px;
+}
+
+.sectionTitle1{
+  color: black !important;
+  text-align: center;
+}
+
+.sectionTitle2{
+  color: black !important;
+  text-align: center;
+}
+
+.topTitle{
+	color: black !important;
+	text-align: center;
+}
+
+hr {
+    width: 80%;
+}
+
+ul{
+		list-style-position:inside;
+}
+ul, li{
+	color: black !important;
+	padding-right: 10px;
+	text-align: left;
+	font-size: 15px;
+}
+
+.left{
+	  border-right: 1px solid black;
+}
+
+.contact-p2{
+    color: white !important;
+    text-indent: 50px;
+}
+.contact-p1{
+    color: white !important;
+    text-indent: 80px;
+}
+
+.contact-3{
+    color: white !important;
+}
+
+.contact-4{
+    text-indent: 160px;
+}
+
+.social-3{
+    color: white !important;
+}
